@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of all the colledges [sic] in the famous university of Cambridge, with the names of the principal founders and benefactors, with the time of their foundation, and the names of the present masters and governours, with the number of students in every colledge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01936</idno>
+            <idno type="STC">Wing C1269</idno>
+            <idno type="STC">ESTC R171044</idno>
+            <idno type="EEBO-CITATION">51784430</idno>
+            <idno type="OCLC">ocm 51784430</idno>
+            <idno type="VID">174850</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174850)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2703:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of all the colledges [sic] in the famous university of Cambridge, with the names of the principal founders and benefactors, with the time of their foundation, and the names of the present masters and governours, with the number of students in every colledge.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Blyth, sold by J. Playford,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With Allowance. March 6. 1678. Ro. L'Estrange."</note>
+                  <note>Title inserted at end.</note>
+                  <note>Lacks imprint. Publisher and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Cambridge --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_Cambridge_colleges">
+            <pb facs="tcp:174850:1" rendition="simple:additions"/>
+            <div n="1" type="college">
+               <head>I. S<hi rend="sup">t</hi> 
+                  <hi>PETERS</hi> Colledge or Houſe was Founded 1256.</head>
+               <p>
+                  <hi>H<g ref="char:V">Ʋ</g>GO</hi> de <hi>BALSHAM</hi> Prior of <hi>Ely,</hi> in the year 1256. placed a Maſter and Scholars in the Hoſtle of St. <hi>John</hi> in <hi>Cambridge</hi> in the year 1284. he being Biſhop of <hi>Ely,</hi> ſeparated them from the Maſter and Fryars of St. <hi>John</hi>'s Hoſtle and ſeated them in two Hoſtles adjoyning to St. <hi>Peter</hi>'s Church, (now called Little St. <hi>Maries</hi>) without <hi>Trumpington-gate</hi> in the place of which two He then Founded this Colledge, Endowed it, and placing in it a Maſter and 14 Fellows: Since which time, by the Liberality of <hi>Simon de Langham, John</hi> de <hi>Fordham,</hi> Biſhops of <hi>Ely; John Laceby, VVilliam Irby, Thomas</hi> de <hi>Caſtro, Bernardi</hi> Maſter of this Colledge, <hi>VVilliam Nonion,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Holbrooks,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Lant,</hi> D<hi rend="sup">r</hi> 
+                  <hi>VVarkworth,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Denham,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Hornby,</hi> D<hi rend="sup">r</hi> 
+                  <hi>B<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rgoine,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Edmonds,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Shirton,</hi> Arch-Biſhop <hi>VVhitgiſt,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Pern, John Blyth</hi> Fellow, D<hi rend="sup">r</hi> 
+                  <hi>Richardſon</hi> Maſter, D<hi rend="sup">r</hi> 
+                  <hi>Hale</hi> Maſter, <hi>John Cofins</hi> Biſhop of <hi>Darham</hi> Maſter, and other Benefactors, (this Colledge or Houſe being the firſt that was built in this Univerſity) there are in it a Maſter, 22 Fellows, 45 Scholars, a Bible-Clerk, beſide Officers and Servants of the Foundation, with other Students, in all about Ninety. —D<hi rend="sup">r</hi> 
+                  <hi>Joſeph Beaumont</hi> Maſter, Margaret Profeſſor.</p>
+            </div>
+            <div n="2" type="college">
+               <head>II. <hi>CLARE-HALL</hi> Founded 1326.</head>
+               <p>
+                  <hi>RICHARD BADEW,</hi> born at <hi>Great Badew</hi> in <hi>Eſſex,</hi> by Licence from <hi>Edward</hi> the Second, Founded this Colledge in <hi>Milnſtreet</hi> near St. <hi>Zacharies</hi> Church, placing there a Principal, under whom the firſt 16 years the Students lived at their own Charges; after <hi>Walter Thaxted</hi> Principal, with the conſent of the ſaid <hi>Richard Badew, Richard Ling</hi> Chancellour of the Uni<g ref="char:EOLhyphen"/>verſity, <hi>Anno</hi> 1340 reſigned the firſt Foundation into the hands of <hi>Elizabeth</hi> Grand-Child to <hi>Edward</hi> the firſt, ſecond Daughter and Coheir of <hi>Gilbert</hi> Earl of <hi>Clare,</hi> from whom it bare the Name, <hi>Clare-ball:</hi> She Re-built and Endowed the ſame, which many other Benefactors have ſince increaſed; as <hi>VValter VVorleigh, Ralph Scrivenor, Tho. Cave, Thomas Paske, Benjamin Oley, Arthur</hi> L<hi rend="sup">d</hi> 
+                  <hi>Capel, Peter Gunning</hi> L<hi rend="sup">d</hi> B<hi rend="sup">p</hi> of <hi>Ely,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Hacket</hi> Biſhop of <hi>Coventry</hi> and <hi>Lichfield,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Heaver</hi> and others: There are in it a Maſter, 18 Fellows, 41 Scholars, beſide Officers of the Foundation, and other Students, to the number of 100.—D<hi rend="sup">r</hi> 
+                  <hi>Dillingham</hi> Maſter.</p>
+            </div>
+            <div n="3" type="college">
+               <head>III. <hi>PEMBROKE-HALL</hi> was Founded 1343.</head>
+               <p>
+                  <hi>MARY</hi> de S<hi rend="sup">t</hi> 
+                  <hi>PA<g ref="char:V">Ʋ</g>L</hi> Counteſs of <hi>Pembroke,</hi> having firſt Built and Endowed <hi>Denny Abbey</hi> in this County, She procured a Licence from King <hi>Edward</hi> the third, in the 17<hi rend="sup">th</hi> of his Reign, and then Founded this Colledge or Hall of <hi>Mary</hi> de <hi>Valentia,</hi> after <hi>Pembroke-hall,</hi> in which, as it now ſtands, are the Ancient Hoſtles of the Univerſity, and S. <hi>Thomas, Knaptons, Boltons,</hi> and <hi>Coſins</hi> places, with part of the Chantry-houſe of <hi>Little</hi> St. <hi>Maries,</hi> and Endowed the ſame with Lands, Impropriati<g ref="char:EOLhyphen"/>ons, and Patronages, Plate, Jewels, and other Ornaments: Since it hath been much inlarged by the Bounty of King <hi>Henry</hi> the 6<hi rend="sup">th</hi>, by the Donations of <hi>John Langton</hi> Biſhop of St. <hi>Davids, Lawrence Booth</hi> Arch-Biſhop of <hi>York, Edmund Grindal</hi> Arch-Biſhop of <hi>Canterbury, Lancelot Andrews</hi> Biſhop of <hi>Wincheſter, Benjamin Laney</hi> late Biſhop of <hi>Ely,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Mark Frank,</hi> Sir <hi>Philip Booth,</hi> Sir <hi>Roger L'Eſtrange,</hi> all of this Colledge, beſide others who have ſetled Lands, or given ſumms of money, as Sir <hi>William Huſſey</hi> Lord Chief Juſtice of <hi>England,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Thomas Watts, Thomas James, Thomas Hobs</hi> Eſq, <hi>William Marſhal, John Holmes,</hi> with others, who not long ſince repaired the Old Court of this Colledge, and New Buildings were Erected by Sir <hi>Robert Hitcham</hi> ſometime of this Houſe, <hi>Richard Ball</hi> Fellow D. D. and now Maſter of the Temple, <hi>William Quarles</hi> late Preſident; alſo a fair New Chapel was Built, and Endowed, and Furniſhed by <hi>Mathew Wren</hi> ſometime Fellow, Preſident, and late Lord Biſhop of <hi>Ely:</hi> the Maſter, Fellows and Scholars, with other Students, Officers and Servants of the Foundation are about 100. —D<hi rend="sup">r</hi> 
+                  <hi>Coga</hi> D. D. Maſter.</p>
+            </div>
+            <div n="4" type="college">
+               <head>IV. <hi>CORP<g ref="char:V">Ʋ</g>S-CHRISTI</hi> Colledge was Founded 1351.</head>
+               <p>
+                  <hi>HENRY</hi> of <hi>MONMO<g ref="char:V">Ʋ</g>TH,</hi> Sirnamed <hi>(Torto Collo)</hi> Son and Heir of <hi>Henry</hi> of <hi>Lancaſter,</hi> Lord of <hi>Monmouth</hi> and <hi>Ponte<g ref="char:EOLhyphen"/>fract,</hi> Earl of <hi>Lancaſter, Leiceſter, Derby,</hi> and High-Steward of <hi>England,</hi> ſucceeded his Father in all his Honours, and was by King <hi>Edward</hi> the 3<hi rend="sup">d</hi> Created Earl of <hi>Lincoln,</hi> and one of the Knights of the firſt Foundation of the moſt Noble Order of the Garter, Duke of <hi>Lancaſter,</hi> &amp;c. of the Fraternity or Guild of <hi>Corpus Chriſti,</hi> and Bleſſed <hi>Mary</hi> the Virgin, near unto <hi>Luth<g ref="char:EOLhyphen"/>born-Lane,</hi> and the Hoſtle of St. <hi>Bernard</hi> in the Eaſt, whereof himſelf was then Alderman, Founded this Colledge in the year 1351, among other things appropriating unto the ſame, the perpetual patronage of St. <hi>Benedicts</hi> Church: This Colledge ſince hath been much beautified with Buildings, and increaſed with Revenues, by the Lady <hi>Elizabeth Brotherton</hi> Dutcheſs of <hi>Norfolk, Thomas Cambridge,</hi> and Sir <hi>John Cambridge</hi> gave <hi>Stone-hall</hi> toward the Augmentation of the ſame, <hi>John Meers</hi> Eſq Beadle, <hi>Ma<g ref="char:EOLhyphen"/>thew Parker</hi> Arch-Biſhop of <hi>Canterbury,</hi> Sir <hi>Nicholas Bacon</hi> Lord Keeper of the Great Seal, <hi>Roger Mannors</hi> Earl of <hi>R<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tland,</hi> Lord <hi>Roos</hi> of <hi>Hamlake, Belvoir</hi> and <hi>Trusbut,</hi> &amp;c. <hi>Roger Mannors</hi> his great Unkle, <hi>William Benedict, Leonard Cauſton</hi> gave 18<hi rend="sup">l</hi>. 3s. 4<hi rend="sup">d</hi>. for maintenance of 3 Scholarſhips, and M<hi rend="sup">r</hi> 
+                  <hi>John Booth</hi> B. D. ſometime Fellow of this Colledge gave 3<hi rend="sup">l</hi>. <hi>per Annum,</hi> beſide divers other Benefactors: Here is at preſent a Maſter, 12 Fellows, 37 Scholars, beſides Officers and Servants of the Foundation, with other Students, to the number of 150. —<hi>John Spencer</hi> D. D. Maſter, and Dean of <hi>Ely.</hi>
+               </p>
+            </div>
+            <div n="5" type="college">
+               <head>V. <hi>TRINITY-HALL</hi> was Founded 1350.</head>
+               <p>
+                  <hi>WILLIAM BATEMAN</hi> born in <hi>Norwich,</hi> Doctor of the Civil Law, after 18 year Biſhop of that Sea, for the ex<g ref="char:EOLhyphen"/>change of certain Parſonages in the 24<hi rend="sup">th</hi> of King <hi>Edward</hi> the third, <hi>Anno</hi> 1350. obtained an Ancient Hoſtle, near ad<g ref="char:EOLhyphen"/>joyning to the Univerſity Houſe, where in former times Students lived at their own charges, he made thereof a Colledge or Hall, and dedicated it to the honour of the Holy and Bleſſed Trinity; Endowing the ſame with Lands and Poſſeſſions for Students of the Civil Law: Since <hi>Richard Ling</hi> D. D. Chancellour of this Univerſity, <hi>Archibald</hi> of <hi>Norwich, Simon</hi> de <hi>Rekenhall,</hi> and <hi>Walter Elverton</hi> gave four Tenements; <hi>Robert Stratton, John Trunch, Walter Baketon, Walter</hi> de <hi>Alderſey,</hi> and <hi>Peter</hi> de <hi>Bittering</hi> gave two Meſſuages, and ſeven pieces of Ground, one called <hi>Drakes Entry:</hi> Since <hi>John</hi> de <hi>Botiſham</hi> Biſhop of <hi>Rocheſter, Richard Nix</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Norwich, Stephen Gardner</hi> Biſhop of <hi>VVincheſter,</hi> Lord Chancellour of <hi>England, Mathew Parker</hi> Arch-Biſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Mouſe,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Harvey,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Cowel,</hi> Doctor of Laws, and Kings Profeſſor, Sir <hi>George Newman, Thomas Eden</hi> D<hi rend="sup">r</hi> of Law, Chan<g ref="char:EOLhyphen"/>cellour of <hi>Ely, George Gaell;</hi> and by other Benefactors this Colledge hath been much inlarged, ſo that here is a Maſter, 12 Fellows, 14 Scholars, beſide Officers and Servants of the Foundation, with other Students to the number of 70.—Sir <hi>Tho. Exton</hi> Maſter.</p>
+            </div>
+            <div n="6" type="college">
+               <head>VI. <hi>GONVILL</hi> and <hi>CAI.</hi> Colledge was Founded 1348.</head>
+               <p>
+                  <hi>EDMOND</hi> de <hi>GONVILL</hi> younger Brother of Sir <hi>Nicholas Gonvill,</hi> and Rector of <hi>Ruſhworth,</hi> and <hi>Terington</hi> in <hi>Nor<g ref="char:EOLhyphen"/>folk,</hi> obtained of <hi>Edward</hi> the third Licence to Convert his three Meſſuages, with a Garden and the Appurtenances, ſi<g ref="char:EOLhyphen"/>tuate in the Pariſh of St. <hi>Botolphs</hi> and St. <hi>Benedicts</hi> into a perpetual Colledge of a Guardian, or Warden, and 20 Scholars, Stu<g ref="char:EOLhyphen"/>dents in Logick, and other Sciences, and to give it what Name he would; who by his Deed dated on Thurſday in the week of Pentecoſt, the 23<hi rend="sup">d</hi> of <hi>Edward</hi> the 3<hi rend="sup">d</hi> 1348. Founded this Colledge accordingly, and gave it Statutes of his own, and called it by the Name of <hi>Gonvill-hall,</hi> and while he lived maintained the Guardian and Scholars or Fellows with his own money, but he dying <hi>An. Dom.</hi> 1350. left <hi>VVilliam Bateman</hi> Biſhop of <hi>Norwich</hi> Executor of his Laſt Will, leaving him a great ſumm of mo<g ref="char:EOLhyphen"/>ney in truſt to the intent he ſhould perfect his Foundation, and Endow his Hall with competent Poſſeſſions, who in 1353. pre<g ref="char:EOLhyphen"/>vailed with the Maſters and Fellows to remove to a place near his own Colledge, where he purchaſed divers Meſſuages and Te<g ref="char:EOLhyphen"/>nements on which he Erected the ſame, by the Name of <hi>Gonvill-hall:</hi> afterward <hi>John Caius</hi> D<hi rend="sup">r</hi> of Phyſick, a great Antiquary in <hi>An. Dom.</hi> 1557. was made a Co-founder by Letters Patents, and cauſed it to be called <hi>Gonvill</hi> and <hi>Caius</hi> Colledge: He added to it a fair Building of Freeſtone, increaſed the Treaſury with new Revenues for the maintenance of three Fellows, twenty Scho<g ref="char:EOLhyphen"/>lars and a Porter. Since, the Ladies, <hi>Mary Pakenham,</hi> and <hi>Ann Scroop, Elizabeth Cleer,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Bayly, Stephen Smith,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Knight,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Whitacre,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Parker</hi> Arch-Biſhop of <hi>Canterbury,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Wendy,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Biſhby,</hi> Sir <hi>VVilliam Paſton,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Batchcroft,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Goſtlin,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Coſi<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Durham,</hi> and other Benefactors have much increaſed the buildings and number of Scholars; ſo that here are twenty ſix Fellows, one Chaplain, ſeventy five Scholars beſides Officers and Servants of the Foundation, and other Students, to the num<g ref="char:EOLhyphen"/>ber of one hundred and forty. —Doctor <hi>Brady</hi> M. D. Maſter.</p>
+            </div>
+            <div n="7" type="college">
+               <pb facs="tcp:174850:2"/>
+               <head>VII. <hi>KINGS-COLLEDGE</hi> was Founded 1441.</head>
+               <p>
+                  <hi>HENRY</hi> the Sixth, called <hi>Henry</hi> of <hi>VVindſor,</hi> King of <hi>England</hi> and <hi>France,</hi> Lord of <hi>Ireland,</hi> Sirnamed the <hi>Holy,</hi> Proclaimed in his Cradle, Crowned in his Infancy, and in his riper years Renowned in <hi>France;</hi> in the 19<hi rend="sup">th</hi> year of his Reign, <hi>An. Dom.</hi> 1441. began his Royal Foundation of this Colledge, dedicating the ſame to the honour of our Bleſſed Lady <hi>Mary</hi> the Virgin, and St. <hi>Nicholas,</hi> and called it <hi>Kings Colledge,</hi> which having ſo Royal a Founder, we acknowledge no other for the Maintenance thereof, in which at this preſent is ſtanding one of the moſt Famous Chapels in the World, conformable to which he intended to make this his Colledge, but by reaſon of the Civil Wars between the Houſes of <hi>York</hi> and <hi>Lancaſter,</hi> he was in a ſhort ſpace de<g ref="char:EOLhyphen"/>prived both of his Kingdom and his Life, and ſo left it unperfected for ſome of his Succeſſors to finiſh: Accordingly <hi>Henry</hi> the 7<hi rend="sup">th</hi> finiſhed the outward Fabrick, and was cut off by death; but <hi>Henry</hi> the 8<hi rend="sup">th</hi> adorned it with glorious Windows, and beautified it with Seats, and a rich carved Rood-loft, and divers other Ornaments, and gave to it this Coat of Arms, <hi>(viz.)</hi> in a Field Sable three Roſes Argent, and that it might appear to be the work of a King, he cauſed a part of his own Arms to be placed on the Chief of the Eſchocheon, <hi>(viz.)</hi> party per Pale Azure and Gules; on the firſt a Flower of <hi>France,</hi> on the ſecond a Lion of <hi>En<g ref="char:EOLhyphen"/>gland:</hi> In this Colledge is one Provoſt, 70 Fellows and Scholars, three Chaplains, one Maſter of the Choriſters, ſix ſinging Clerks, 16 Choriſters, and 16 Colledge Officers and Servants, the whole number being 113. all maintained by the Bounty of Her Royal Founder King <hi>Henry</hi> the ſixth. —Sir <hi>Thomas Page</hi> Provoſt.</p>
+            </div>
+            <div n="8" type="college">
+               <head>VIII. <hi>Q<g ref="char:V">Ʋ</g>EEN-COLLEDGE</hi> was Founded 1448.</head>
+               <p>
+                  <hi>MARGARET ANDEGAVENSIS,</hi> Daughter of <hi>Reiner</hi> Duke of <hi>Anjou,</hi> Titular King of <hi>Sicily, Naples</hi> and <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> Conſort of King <hi>Henry</hi> the 6<hi rend="sup">th</hi> obtained Licence to build this Colledge, upon part of the Ground belonging to the Carmelite Fryars, and purchaſed Lands to the value of 200<hi rend="sup">l</hi> 
+                  <hi>per An.</hi> for the Endowment thereof, dedicating the ſame to S<hi rend="sup">t</hi> 
+                  <hi>Mar<g ref="char:EOLhyphen"/>garet</hi> and St. <hi>Bernard,</hi> but ſhe died and left it unperfected: Queen <hi>Elizabeth</hi> Wife to King <hi>Edward</hi> the fourth obtained Licence to finiſh the ſame, which ſhe did; afterward by the Liberality of <hi>Andrew Ducket</hi> firſt Preſident of this Colledge, <hi>George</hi> Duke of <hi>Clarence, Cicely</hi> Dutcheſs of <hi>York, Richard</hi> Duke of <hi>Gloceſter,</hi> the Lady <hi>Ann</hi> his Wife, <hi>Edward</hi> Earl of <hi>Salisbury, Maud</hi> Counteſs of <hi>Oxford, Marmaduke Lumbey</hi> Biſhop of <hi>Lincoln,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Thimbleby,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Davenant</hi> Biſhop of <hi>Salisbury,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Mountain</hi> Biſhop of <hi>London,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Roberts</hi> Biſhop of <hi>Bangor,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Gell,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Smith, Edward Kemp</hi> B. D. and other great Benefactors, it is ſo increaſed, that there is in it a Preſident, 19 Fellows, 27 Scholars, 12 Bible Clerks, 3 Lecturers, of Hebrew, Arithmetick and Geometry, beſide other Officers and Servants of the Foundation; the whole number is about 124. —Doctor <hi>James</hi> Preſident.</p>
+            </div>
+            <div n="9" type="college">
+               <head>IX. <hi>KATHERINE-HALL</hi> was Founded 1475.</head>
+               <p>
+                  <hi>ROBERT VVOODLARK</hi> D. D. born at <hi>VVakerby</hi> in <hi>Northumberland</hi> Founded this Colledge or Hall in a place called <hi>Milnſtreet,</hi> he dedicated the ſame to the Honour of St. <hi>Katherine</hi> the Virgin and Martyr; He obtained of King <hi>Edward</hi> the fourth, a Licence of <hi>Mortmain</hi> for the Endowment thereof, which was confirmed to him and his Succeſſors for ever, wherein he Eſtabliſhed a Maſter and ſix Fellows: Since it hath been inlarged by the Liberality of <hi>Iſabel Canterbury, VVilliam Taylor, Kathe<g ref="char:EOLhyphen"/>rine Myles,</hi> the Lady <hi>Elizabeth Bernardiſton,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Sharton,</hi> M<hi rend="sup">r</hi> St. <hi>Johns,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Green,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Thimbleby,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Midleton, John Cholmley, John Duke,</hi> Sir <hi>John Claypool, John Goſtlin,</hi> M. D. a large and bountiful Benefactor, <hi>Thomas Buck</hi> Fellow, Senior Beadle Eſq, <hi>Peter Pheſant, Ann</hi> Lady <hi>Cocket, Ann</hi> Lady <hi>Bernardiſton,</hi> D<hi rend="sup">r</hi> 
+                  <hi>VVilliam Gouge,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Coulſon,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Cradock, Robert Skerne</hi> Eſq a great Bene<g ref="char:EOLhyphen"/>factor, <hi>John Lightfoot</hi> D. D. Here is now a Maſter, 6 Fellows, 18 Scholars, 9 Exhibitioners beſides Officers and Servants of the Foundation, with other Students, 156. —Doctor <hi>Echard</hi> Maſter, D. D.</p>
+            </div>
+            <div n="10" type="college">
+               <head>X. <hi>JES<g ref="char:V">Ʋ</g>S-COLLEDGE</hi> was Founded 1496.</head>
+               <p>
+                  <hi>JOHN ALCOCK</hi> born at <hi>Beverly</hi> in <hi>York-ſhire,</hi> Doctor of the Civil Law, Biſhop of <hi>Ely,</hi> Lord Chancellour of <hi>England,</hi> pro<g ref="char:EOLhyphen"/>cured Licence of King <hi>Henry</hi> the ſeventh, to Convert into a Colledge an Ancient Nunnery, the Nuns whereof all were dead but two and diſperſed, and the Houſe much waſted: He alſo obtained Licence under the Great Seal of <hi>England</hi> to appropriate all the Land that belonged to it, to this his Colledge, and Dedicated it to the bleſſed Virgin St. <hi>Mary,</hi> and St. <hi>John</hi> the Evange<g ref="char:EOLhyphen"/>liſt, and the glorious Virgin St. <hi>Rhadegund,</hi> commonly called <hi>Jeſus Colledge,</hi> wherein he Eſtabliſhed a Maſter, five Fellows, and ſix Scholars: Since it is much increaſed by the acceſſary Foundations of <hi>James Stanly</hi> Biſhop of <hi>Ely, Richard Pigott</hi> Serjeant at Law, Sir <hi>Richard Read</hi> Chief Juſtice of the Common Pleas, <hi>John Andrews</hi> Prebend of St. <hi>Pauls,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Fuller,</hi> Sir <hi>John Riſely, Tho<g ref="char:EOLhyphen"/>mas Thirleby</hi> Biſhop of <hi>Ely, John Batemanſon,</hi> L. L. D. D<hi rend="sup">r</hi> 
+                  <hi>Duport</hi> late Maſter, <hi>Tho. Sutton</hi> Eſq, <hi>Tobias Ruſtat</hi> Eſq Yeoman of the Robes to King <hi>Charles</hi> the ſecond, with divers other Benefactors; ſo that there is now in the ſame a Maſter, 16 Fellows, 26 Scho<g ref="char:EOLhyphen"/>lars, beſides Officers and Servants of the Foundation, with other Students, in all 116. —<hi>Edmund Boldero,</hi> D. D. Maſter.</p>
+            </div>
+            <div n="11" type="college">
+               <head>XI. <hi>CHRIST-COLLEDGE</hi> was Founded 1505.</head>
+               <p>
+                  <hi>MARGARET</hi> Counteſs of <hi>Richmond</hi> and <hi>Derby,</hi> in teſtimony of her love to Learning, obtained Licence of King <hi>Henry</hi> the ſeventh, to Erect a Colledge without <hi>Barnwell-gates</hi> in <hi>Preacher-ſtreet,</hi> of four Meſſuages and Gardens belonging to the Abbot of <hi>Tilti,</hi> and Prioreſs of <hi>Denny,</hi> where King <hi>Henry</hi> the ſixth had founded a Houſe called <hi>Gods Houſe,</hi> Dedicating the ſame to the honour of our Saviour Chriſt, the Lady <hi>Margaret</hi> Endowing it with Lands and Revenues for a Maſter and 12 Fel<g ref="char:EOLhyphen"/>lows, 47 Scholars, and King <hi>Edward</hi> the ſixth added the 13<hi rend="sup">th</hi> Fellow, together with three more Scholars: Since D<hi rend="sup">r</hi> 
+                  <hi>Thompſon,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Hawford,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Carey,</hi> and D<hi rend="sup">r</hi> 
+                  <hi>Bainbridge</hi> Maſters, D<hi rend="sup">r</hi> 
+                  <hi>Patiſon,</hi> Sir <hi>VValter Mildmay,</hi> Sir <hi>John VVentworth,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Grindal</hi> Arch-Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Caterbury, Anthony VVatſon</hi> Biſhop of <hi>Chicheſter,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Joſeph Mede, Edward King,</hi> M<hi rend="sup">r</hi> 
+                  <hi>John</hi> and M<hi rend="sup">r</hi> 
+                  <hi>Joſias Alſop,</hi> Sir <hi>Thomas VVidderington,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Gell, Henry Montague</hi> Earl of <hi>Mancheſter,</hi> Sir <hi>Sidney Mountague, George</hi> Earl of <hi>Rutland,</hi> Sir <hi>Juſtinian Iſham,</hi> Sir <hi>Thomas Willis,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Honiwood,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Grey,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Shute,</hi> all great Benefactors, gave Scholarſhips, Houſes, Monies or Books; ſo that here is a Maſter, 13 Fellows, 55 Scholars, beſide Officers and Servants of the Foundation, with other Students, to the num<g ref="char:EOLhyphen"/>ber of 206. —Doctor <hi>Ralph Cudworth</hi> Maſter.</p>
+            </div>
+            <div n="12" type="college">
+               <head>XII. S<hi rend="sup">t</hi>. <hi>JOHN-COLLEDGE</hi> was Founded 1508.</head>
+               <p>THE aforeſaid <hi>Margaret</hi> Counteſs of <hi>Richmond</hi> and <hi>Derby,</hi> Mother to King <hi>Henry</hi> the ſeventh, obtained Licence of her Ne<g ref="char:EOLhyphen"/>phew King <hi>Henry</hi> the Eighth, to Convert a Houſe of Regular Canons Founded by <hi>Nigellus</hi> ſecond Biſhop of <hi>Ely,</hi> in <hi>An. Dom.</hi> 1134. afterward tranſlated to a Priory, and Dedicated to S<hi rend="sup">t</hi> 
+                  <hi>John</hi> the Evangeliſt in the <hi>Jury,</hi> by <hi>Hugo de Balſham,</hi> tenth Biſhop of <hi>Ely,</hi> now called S<hi rend="sup">t</hi> 
+                  <hi>John</hi>'s Colledge, the perfecting whereof ſhe left to her Executors <hi>Richard Fox</hi> Biſhop of <hi>Winche<g ref="char:EOLhyphen"/>ſter, John Fiſher</hi> Biſhop of <hi>Rocheſter, Charles Somerſet,</hi> Lord <hi>Herbert</hi> and others, who moſt juſtly performed the Truſt repoſed in them: Since it hath been much enlarged by <hi>John Morton</hi> Biſhop, Arch-Biſhop of <hi>Canterbury,</hi> and Cardinal, <hi>Hugh Aſhton</hi> Arch-Deacon of <hi>York, Roger Lupton</hi> Provoſt of <hi>Eaton,</hi> Sir <hi>Robert Wood,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Dee</hi> Biſhop of <hi>Peterborough,</hi> Sir <hi>Ambroſe Cave, Stephen Cardi<g ref="char:EOLhyphen"/>nall, Thomas Tompſon</hi> D. D alſo <hi>John Barwick</hi> Dean of S<hi rend="sup">t</hi> 
+                  <hi>Pauls</hi> a bountiful Benefactor, a fair Court was built by <hi>Mary</hi> Counteſs of <hi>Shrewsbury,</hi> and the Caſe of the Library by <hi>John Williams</hi> Biſhop of <hi>Lincoln,</hi> and Lord Keeper, Sir <hi>Ralph Hare, Robert Johnſon,</hi> and other good Benefactors; ſo that here is a Maſter, 52 Fellows, 94 Scholars, beſide Officers of the Foundation, with other Students to the number of 372. —<hi>Francis Turner</hi> D. D. Maſter.</p>
+            </div>
+            <div n="13" type="college">
+               <pb facs="tcp:174850:3"/>
+               <head>XIII. <hi>MAGDALEN-COLLEDGE</hi> was Founded 15<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</head>
+               <p>
+                  <hi>EDWARD STAF-FORD</hi> laſt Duke of <hi>Buckingham</hi> of that Name, Earl of <hi>Stafford,</hi> Earl of <hi>Hereſord</hi> and <hi>Northampton.</hi> Founded this Colledge by the Name of <hi>Buckingham</hi> Colledge, in a place where the Priory of S<hi rend="sup">t</hi> 
+                  <hi>Giles</hi> had formerly been Situated; it was an Hoſtle or Hall inhabited by divers Monks of ſeveral Monaſteries to reſide and ſtudy in: Afterward in 1542 <hi>Thomas Audley</hi> Baron of <hi>Waltham,</hi> and Lord Chancellour, obtained Licence of <hi>Henry</hi> the Eighth to alter the Name, and call it S<hi rend="sup">t</hi> 
+                  <hi>Mary Magdalen</hi> Colledge; unto which he gave Lands and Revenues; the Right Honourable <hi>James</hi> Earl of <hi>Suffolk,</hi> be<g ref="char:EOLhyphen"/>ing now by Inheritance Patron thereof, <hi>Hugh Dennis</hi> Eſq, Sir <hi>Chriſtopher Wray</hi> Chief Juſtice, and <hi>John Spenluffe</hi> Eſq, <hi>Edmund Grindal</hi> Arch-Biſhop of <hi>Canterbury, Thomas Parkinſon</hi> Rector of <hi>Wivelingham, William Roberts</hi> of <hi>Norſolk</hi> Eſq, <hi>John Hughes</hi> Chan<g ref="char:EOLhyphen"/>cellour of <hi>Bangor, Thomas Sutton</hi> Eſq, Founder of <hi>Sutton</hi>'s Hoſpital, the Honourable Lady <hi>Frances</hi> Counteſs Dowager of <hi>War<g ref="char:EOLhyphen"/>wick, John Smith</hi> late Fellow, all great Benefactors, <hi>Robert Holmes</hi> Merchant of <hi>Exeter,</hi> born at <hi>Wisbich, James Duport</hi> D. D. and other Benefactors who have much increaſed this Colledge; ſo that there is a Maſter, 15 Fellows, 31 Scholars, beſides Officers and Servants of the Foundation, with other Students, being in all 120. —<hi>James Duport</hi> D. D. Maſter, Dean of <hi>Peterborough.</hi>
+               </p>
+            </div>
+            <div n="14" type="college">
+               <head>XIV. <hi>TRINITY-COLLEDGE</hi> was Founded 1546.</head>
+               <p>KING <hi>HENRY</hi> the Eighth, after the ſuppreſſion 1546. United <hi>Kings-Hall,</hi> Founded by King <hi>Edward</hi> the Third, <hi>Michael Houſe</hi> Founded by <hi>Henericus</hi> de <hi>Stanton</hi> Chancellour of the Exchequer to <hi>Edward</hi> the Second, into one Colledge, and Dedicated it to the undivided Trinity, which he Endowed with 1640<hi rend="sup">l</hi> 
+                  <hi>per An.</hi> Queen <hi>Mary</hi> added to her Fathers Foun<g ref="char:EOLhyphen"/>dation the yearly Revenue of 385<hi rend="sup">l</hi>, increaſed the number of Fellows and Scholars by a third part; Founded a Quire, and laid the Foundation of a large Chappel, which after her Death was finiſhed by the Society: Since <hi>Thomas Allen</hi> gave two Scholar<g ref="char:EOLhyphen"/>ſhips and Lands to other Uſes, Sir <hi>Edward Stanhope</hi> gave maintenance for a Library Keeper, and a Servant under him, the Lady <hi>Ann Bromley</hi> gave five Scholarſhips, M<hi rend="sup">r</hi> 
+                  <hi>Hope</hi> gave the perpetual Patronage of <hi>North-Runcton,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Nevil</hi> Maſter of this Col<g ref="char:EOLhyphen"/>ledge expended 3000<hi rend="sup">l</hi> in building the back-Court, D<hi rend="sup">r</hi> 
+                  <hi>John Hacket</hi> late Biſhop of <hi>Coventry</hi> and <hi>Lichfield</hi> gave 1200<hi rend="sup">l</hi> to Erect a Building by the Name of Biſhops Hoſtle, the Rent whereof is to remain a conſtant Revenue to the Library; ſo that this Col<g ref="char:EOLhyphen"/>ledge is one of the Goodlieſt and moſt Uniform Colledges in <hi>Europe:</hi> In this Colledge is a Maſter, 60 Fellows, 67 Scholars, 3 publick Profeſſors, 4 Conducts, 13 Poor Scholars, a Maſter of the Choriſters, 6 Secular Clerks, 20 Beads-men, beſides Ex<g ref="char:EOLhyphen"/>hibitioners, Officers and Servants of the Foundations, with many other Students, being in all above 400. —<hi>John North</hi> D. D. M<hi rend="sup">r</hi>.</p>
+            </div>
+            <div n="15" type="college">
+               <head>XV. <hi>EMAN<g ref="char:V">Ʋ</g>EL-COLLEDGE</hi> was Founded 1584.</head>
+               <p>SIR <hi>WALTER MILDMAY</hi> Chancellour of the Exchequer, and Privy Counſellour to Queen <hi>Elizabeth,</hi> Founded and Erected this Colledge to be a Nurſery of Divines, in the place where formerly inhabited the Black Fryars, and Conſti<g ref="char:EOLhyphen"/>tuted therein a Maſter, three Fellows, four Scholars with inferiour Officers: Since it hath been much increaſed by the Noble Bounty of Queen <hi>Elizabeth</hi> of Famous Memory: As alſo by <hi>Henry</hi> Earl of <hi>Huntington,</hi> and his Brother Sir <hi>Francis Haſtings,</hi> Sir <hi>Samuel Leonard,</hi> Sir <hi>Robert Jermin,</hi> Sir <hi>Francis Walſingham,</hi> and others; D<hi rend="sup">r</hi> 
+                  <hi>John Wells</hi> Maſter of this Colledge; <hi>Francis Aſh</hi> Maſter of the <hi>Muſcovian</hi> Company <hi>London,</hi> hath ſetled on this Colledge 170<hi rend="sup">l</hi> yearly for divers Charitable Uſes, D<hi rend="sup">r</hi> 
+                  <hi>Sudbury</hi> Dean of <hi>Durham</hi> hath given 500<hi rend="sup">l</hi> to the Colledge, which is laid out in Lands and Tenements, D<hi rend="sup">r</hi> 
+                  <hi>Benjamin Whitchcot</hi> late Fel<g ref="char:EOLhyphen"/>low hath given 1000<hi rend="sup">l</hi>, which is laid out in Lands and Tenements for four Scholarſhips of the Foundation: The New Chap<g ref="char:EOLhyphen"/>pel and Library were firſt undertaken by the Encouragement of Sir <hi>Robert Gayer,</hi> by his Noble Gift of a 1000<hi rend="sup">l</hi>; others ſince have Contributed to that Good Work, as <hi>Charles</hi> Earl of <hi>Weſtmorland, John Coſins</hi> Biſhop of <hi>Durham,</hi> Sir <hi>Thomas Rich,</hi> Sir <hi>Sa<g ref="char:EOLhyphen"/>muel Sterling</hi> late Lord Mayor of <hi>London,</hi> D<hi rend="sup">r</hi> 
+                  <hi>William Sandcroft</hi> preſent Arch-Biſhop of <hi>Canterbury,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Clark</hi> Dean of <hi>Wincheſter, Mathew Pindar</hi> Eſq and others: Here is at preſent a Maſter, 14 Fellows, 50 Scholars, 10 Poor Scholars, beſide Officers and Servants of the Foundation, the whole number is about 170. —Doctor <hi>Holdbeach</hi> D. D. Maſter.</p>
+            </div>
+            <div n="16" type="college">
+               <head>XVI. <hi>SIDNEY S<g ref="char:V">Ʋ</g>SSEX-COLLEDGE</hi> was Founded 1598.</head>
+               <p>
+                  <hi>FRANCES SIDNEY</hi> Counteſs of <hi>Suſſex</hi> Founded this Colledge by the Name of the Colledge of the Lady <hi>Frances Sidney-Suſſex</hi> in a place called the Gray Fryars, which Fryery was built by <hi>Henry</hi> the Firſt, ſuppreſſed 1546 by <hi>Henry</hi> the Eighth, and given to <hi>Trinity</hi> Colledge in <hi>Cambridge,</hi> and was ſince by Act of Parliament conveyed to the Executors of the ſaid Counteſs, <hi>Henry Grey</hi> Earl of <hi>Kent, John</hi> Lord <hi>Harrington</hi> of <hi>Exton</hi> in Fee-farm, for the building and perfecting of this her Colledge; She gave by her laſt Will, beſides her Goods, 5000<hi rend="sup">l</hi>, wherewith her Executors aforenamed Built and Endowed it with Lands for the maintenance of a Maſter, 10 Fellows, afterwards reduced to 7, and 20 Scholars which being increaſed by the acceſſary Foundation of Sir <hi>John Hart, Leonard Smith</hi> of <hi>London, Edward</hi> Lord <hi>Mountague</hi> of <hi>Boughton,</hi> D<hi rend="sup">r</hi> 
+                  <hi>Paul Micklethwait</hi> ſome<g ref="char:EOLhyphen"/>time Fellow of the Colledge, <hi>&amp;c.</hi> It hath at preſent a Maſter, 13 Fellows, 32 Scholars, and for the further inlarging thereof Sir <hi>Francis Clark</hi> hath built 20 Chambers for Students, Founded 4 Fellowſhips, with 8 Scholarſhips more, and Augmented the Stipends of the Scholarſhips of the Foundation: Since <hi>John</hi> Lord <hi>Harrington</hi> the younger, the Lady <hi>Lucy</hi> Counteſs of <hi>Bedford,</hi> the Lady <hi>Ann Harrington, James Mountague</hi> Biſhop of <hi>Wincheſter, George</hi> Lord <hi>Goring,</hi> Sir <hi>John Breerton, John Young</hi> D. D. Sir <hi>Richard Wilmore, Francis Combes</hi> Eſq, <hi>Richard Dugard,</hi> and <hi>Charles Pendr<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> B. D. and late Fellow: The whole number of Stu<g ref="char:EOLhyphen"/>dents with Officers and Servants of the Foundation are 122. —<hi>Richard Minſhal</hi> Maſter D. D.</p>
+            </div>
+            <div type="conclusion">
+               <p>
+                  <hi>The Total Number of all Degrees in this <g ref="char:V">Ʋ</g>niverſity, that hav<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> N<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nes in every particular Colledge, with the Magiſtrates and daily Officers thereunto belonging, beſide divers young Scholars that are Relieved, that have no Na<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>, in any of the Colledges afore<g ref="char:EOLhyphen"/>ſaid, are near Three Thouſand.</hi>
+               </p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="title_page">
+            <head>A CATALOGUE of all the COLLEDGES in the Famous UNIVERSITY of CAMBRIDGE With the Names of the Principal FOUNDERS and BENEFACTORS, with the Time of their FOUNDATION, and the Names of the preſent MASTERS and GOVERNOURS, with the Number of STUDENTS in every COLLEDGE.</head>
+            <p>THe Learned Antiquaries have diverſly written about the Foundation of this <g ref="char:V">Ʋ</g>niverſity of <hi>Cambridge,</hi> ſ<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> affirming it was Founded by <hi>Cantaber,</hi> a Prince of <hi>Spain,</hi> Brother to <hi>Partholinus</hi> King of <hi>Ireland,</hi> Son in L<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to <hi>Gurguntius</hi> King of <hi>Great Britain;</hi> but the Chiefest conclude that <hi>Sigebert</hi> King of the <hi>Eaſt-Angle<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> was the Principal Founder thereof, about the Year <hi>630,</hi> or <hi>636,</hi> who aſſigned divers Hoſtles and Houſes for Students to inhabit in, giving them large Priviledges and Charters, whereof ſome are yet extant, procuring alſo great Im<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ties from Pope <hi>Honorius</hi> the First, which <hi>Sergius</hi> the Firſt Confirmed. Much Honour this place hath received b<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Sons and Nephews of Kings, being Earls thereof, <hi>(viz.) William</hi> Brother to <hi>Ranulph</hi> Earl of <hi>Cheſter,</hi> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Earl of <hi>Henault</hi> 
+               <g ref="char:V">Ʋ</g>ncle to <hi>Philip le Beau</hi> King of <hi>France, William</hi> Marqueſs of <hi>Juliers, Edmund</hi> of <hi>Lang<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Duke of <hi>York, Edward</hi> Duke of <hi>York, Richard</hi> Earl of <hi>Cambridge, Richard</hi> Duke of <hi>York, James</hi> Marqu<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amilton</hi> Earl of <hi>Arran,</hi> his Succeſſor <hi>James</hi> Marqueſs of <hi>Hamilton</hi> Maſter of the Horſe to King <hi>Charles</hi> the <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Illuſtrious <hi>Henry Stewart</hi> Duke of <hi>Gloceſter,</hi> fourth Son of King <hi>Charles</hi> the firſt; ſince <hi>Charles</hi> Duke of <hi>Cambridge, James</hi> and <hi>Edgar</hi> Dukes of <hi>Cambridge,</hi> all Sons to the moſt Illuſtrious Prince <hi>James</hi> Duke of <hi>Yor<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> his Highneſs <hi>James</hi> Duke of <hi>Monmouth</hi> being preſent Chancellour thereof.</p>
+            <p>
+               <hi>With Allowance.</hi> March <hi>6. 1678. Ro. L'Eſtrange.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
